@@ -1,0 +1,87 @@
+.icon-block{
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%
+}
+
+.icon-home{
+  background-image: url('../img/icons/home.png');
+}
+.icon-gallery{
+  background-image: url('../img/icons/gallery.png');
+}
+.icon-destinations{
+  background-image: url('../img/icons/destinations.png');
+}
+.icon-testimonials{
+  background-image: url('../img/icons/testimonials.png');
+}
+.icon-shop{
+  background-image: url('../img/icons/shop.png');
+}
+.icon-contact{
+  background-image: url('../img/icons/contact.png');
+}
+
+.icon-music{
+  background-image: url('../img/icons/music.png');
+}
+
+.icon-like{
+  background-image: url('../img/icons/like.png');
+}
+
+.icon-settings{
+  background-image: url('../img/icons/settings.png');
+}
+
+.icon-play-1{
+  background-image: url('../img/icons/play-1.png');
+}
+
+.icon-play-2{
+  background-image: url('../img/icons/play-2.png');
+}
+
+.icon-couple{
+  background-image: url('../img/icons/couple.png');
+}
+
+.icon-beach{
+  background-image: url('../img/icons/beach.png');
+}
+.icon-airplane{
+  background-image: url('../img/icons/airplane.png');
+}
+
+.icon-search{
+  background-image: url('../img/icons/search.png');
+}
+.icon-temperature{
+  background-image: url('../img/icons/temperature.png');
+}
+.icon-velocity{
+  background-image: url('../img/icons/velocity.png');
+}
+.icon-moisture{
+  background-image: url('../img/icons/moisture.png');
+}
+.icon-night-temp{
+  background-image: url('../img/icons/night-temp.png');
+}
+.icon-family{
+  background-image: url('../img/icons/family.png');
+}
+
+.icon-check{
+  background-image: url('../img/icons/check.png');
+}
+
+.icon-times{
+  background-image: url('../img/icons/times.png');
+}
+
+
+

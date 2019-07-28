@@ -1,0 +1,13 @@
+{{#sprites}}
+.icon-{{name}}
+	position: relative
+	&::before
+		content: ''
+		position: absolute
+		width: {{px.width}}
+		display: inline-block
+		height: {{px.height}}
+		background-image: url({{{escaped_image}}})
+		background-position: {{px.offset_x}} {{px.offset_y}}
+
+{{/sprites}}

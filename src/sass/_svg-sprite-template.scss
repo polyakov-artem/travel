@@ -1,0 +1,13 @@
+.<%=common %> {
+  display: inline-block;
+  fill: currentColor;
+  height: 1em;
+  stroke: inherit;
+  vertical-align: middle;
+}
+
+<% _.forEach(svg, function(svgItem) { %>
+.<%=svgItem.name%> {
+  width: <%= (svgItem.width)/(svgItem.height) %>em;
+}
+<% }); %>
