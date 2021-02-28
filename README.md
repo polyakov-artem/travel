@@ -1,4 +1,7 @@
 # Travel
+Ссылка - <https://polyakov-artem.github.io/travel/>
+
+**Особенности:**
 - Адаптивный
 - Макет в папке layout
 - Используются плагины:
